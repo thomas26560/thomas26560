@@ -16,7 +16,7 @@ Today, I bring that experience into software: I identify a need, design the work
 | --- | --- | --- |
 | **[VVT — Field Operations Platform](https://github.com/thomas26560/vvt-case-study)** | **In use** | A role-based application bringing field operations, recurring work and shared records into one workflow. Public case study; source code and operational data remain private. |
 | **[Rucher Simon — Apiary Management](https://github.com/thomas26560/rucher-simon-case-study)** | **In use** | A collaborative beekeeping application for apiaries, hive inspections, colony history and follow-up actions. Designed to keep observations useful from one visit to the next. |
-| **Regard Habitat** | **In development** | A property visit support service for people considering a purchase or renovation. Combines practical building knowledge, structured observations and clear reports to help clients understand a property and plan their next steps. |
+| **[Regard Habitat — Property Visit Support](https://github.com/thomas26560/regard-habitat-case-study)** | **In development** | A property visit support service for people considering a purchase or renovation. Combines practical building knowledge, structured observations and clear reports to help clients understand a property and plan their next steps. |
 | **Property & wildfire protection** | **Concept exploration** | Exploring how sensors, cameras, pumps and valve controls could support property monitoring and protection, including an autonomous pump concept and ongoing maintenance. |
 
 ## What I bring to a team
