@@ -1,45 +1,39 @@
 # Thomas Simon
 
-> **Du terrain aux outils qui servent vraiment.**
+### I turn field problems into working tools.
 
-**Maintenance · Organisation · Outils numériques · Développement assisté par IA**
+**Building services & maintenance · Practical product design · AI-assisted development**
 
-Ce qui m’intéresse : comprendre un problème concret, imaginer une solution et vérifier qu’elle rend réellement service.
+Around 15 years in plumbing and heating taught me to diagnose problems, understand how systems fit together and make decisions under real constraints.
 
-Mon point de départ est souvent une question simple :
+Today, I bring that experience into software: I identify a need, design the workflow, build with AI assistance and improve the result with the people who use it.
 
-**« Pourquoi faut-il encore recopier cette information, ou chercher partout pour la retrouver ? »**
+**My strength is connecting technical systems, everyday work and the software that supports them.**
 
-## Ma façon de construire
+## Project portfolio
 
-1. **Observer.** Partir des usages et écouter les personnes concernées.
-2. **Clarifier.** Définir le besoin et les contraintes.
-3. **Construire.** Transformer une idée en un outil que l’on peut essayer.
-4. **Vérifier.** Tester, recueillir les retours et corriger.
+| Project | Stage | Purpose |
+| --- | --- | --- |
+| **VVT — Valvital Terrain** | **In use** | A shared application for field operations and maintenance, bringing routine checks, tasks and operational records into one workflow. Built around feedback from the teams using it. |
+| **Rucher Simon** | **In use** | A collaborative beekeeping application for apiaries, hive inspections, colony history and follow-up actions. Designed to keep observations useful from one visit to the next. |
+| **Regard Habitat** | **In development** | A property visit support service for people considering a purchase or renovation. Combines practical building knowledge, structured observations and clear reports to help clients understand a property and plan their next steps. |
+| **Property & wildfire protection** | **Concept exploration** | Exploring how sensors, cameras, pumps and valve controls could support property monitoring and protection, including an autonomous pump concept and ongoing maintenance. |
 
-## Le terrain et l’IA, ensemble
+## What I bring to a team
 
-Je travaille avec **ChatGPT / Codex**, que j’appelle **Alex** dans nos échanges, comme assistant de conception et de développement.
+- **Technical understanding:** hands-on experience with buildings, equipment, troubleshooting and maintenance.
+- **Requirements grounded in actual work:** listening to users, mapping their routines and turning recurring problems into clear features.
+- **Follow-through:** taking an idea through design, implementation with AI assistance, field testing and successive improvements.
+- **A practical view of adoption:** an application has to fit the working day of the people expected to use it.
 
-J’apporte les besoins, les choix fonctionnels et les retours d’usage. L’IA m’aide à explorer des solutions, développer et documenter. Cette démarche me permet aussi d’apprendre progressivement comment fonctionnent les outils que nous construisons.
+## How I build with AI
 
-**Le critère de réussite : un outil que l’on comprend et que l’on utilise.**
+I use **ChatGPT and Codex** to support software design, implementation, debugging and documentation.
 
-## Ce que je souhaite explorer ici
+My contribution covers the operational context, product decisions, functional requirements and testing with users. I use this process to deepen my understanding of software, APIs and connected systems as I build.
 
-- Les outils numériques au service de la maintenance et de l’organisation.
-- Les capteurs et l’IoT.
-- Les API et la circulation de l’information entre les outils.
-- La conception et le développement assistés par IA, avec des essais concrets.
+The questions I keep coming back to: **Does it solve the original problem? Can someone use it in real conditions? What needs to change after their feedback?**
 
-Ce profil est le point de départ. Je souhaite documenter ici mes projets, les problèmes rencontrés et ce que j’en apprends.
+## Where I want to contribute
 
----
-
-### In English
-
-I am interested in practical digital tools, maintenance, IoT and AI-assisted development.
-
-My approach starts with real needs: understand the problem, build something useful, test it and improve it. I work with ChatGPT / Codex as a design and development assistant, while learning how the tools we build work.
-
-This profile is a starting point for sharing projects and lessons learned.
+I am interested in roles and collaborations combining **field expertise, technical solutions and product development**, particularly in maintenance software, connected equipment and the digitalisation of everyday operations.
